@@ -1,109 +1,128 @@
-# 👋 Hey, I'm Sahil Singh
+<h1 align="center">👋 Hey, I'm Sahil Singh</h1>
 
-### 🎮 Aspiring Game Developer | 💻 CS Engineering Student
+<h3 align="center">🎮 Aspiring Game Developer | 💻 CS Engineering Student</h3>
 
-I'm a Computer Science & Systems Engineering student interested in **game development, programming, and building creative projects**.
+<p align="center">
+  <i>“Learn it. Build it. Break it. Fix it. Build it better.”</i>
+</p>
 
-I enjoy taking an idea, turning it into something playable or usable, and learning through the process.
+<p align="center">
+  Building games, software & creative projects.
+</p>
 
----
-
-## 🚀 What I'm Doing
-
-🎮 **Game Development**
-Currently learning Unity and C# while working on my own game projects.
-
-💻 **Software Development**
-Building web applications and programming projects to strengthen my development skills.
-
-🧠 **Computer Science**
-Learning algorithms, data structures, databases, and other core CS concepts.
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-
-`C` `C#` `Python` `Java` `SQL`
-
-### Web
-
-`HTML` `CSS` `JavaScript`
-
-### Tools & Technologies
-
-`Unity` `Git` `GitHub` `MySQL` `Flask`
+<p align="center">
+  <a href="https://github.com/Sahil4507">
+    <img src="https://img.shields.io/badge/GitHub-Sahil4507-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/sahil-singh-bb5981343/">
+    <img src="https://img.shields.io/badge/LinkedIn-Sahil%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
 
 ---
 
-## 🚧 Currently Working On
+## 🎮 Currently Building
 
-### 👁️ Don't Blink
+### 👁️ Project Watcher
 
-A horror game I'm currently developing while learning **Unity and C#**.
+A horror game currently in development using **Unity & C#**.
 
-**Status:** 🚧 In Development
-**Engine:** Unity
-**Language:** C#
-
-More updates coming as development progresses.
+**🚧 In Development** · **Unity** · **C#**
 
 ---
 
-## ⭐ Projects
+## 🛠️ Technologies & Tools
+
+### 💻 Languages
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### 🌐 Web Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🧰 Tools
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+---
+
+## ⭐ Featured Projects
 
 ### 🚗 SmartPark
 
-A smart parking management system built as a web application.
+Smart parking management system built with **Flask, MySQL, HTML, CSS & JavaScript**.
 
-**Tech:** Python • Flask • MySQL • HTML • CSS • JavaScript
+**Python · Flask · MySQL**
 
-### 🎒 Fractional Knapsack
+---
 
-An implementation of the Fractional Knapsack problem using a **Greedy Algorithm**.
+### 🧮 Fractional Knapsack
 
-**Tech:** C • Algorithms
+Implementation of the **Fractional Knapsack problem** using the **Greedy Algorithm**.
+
+**C · Algorithms**
+
+---
+
+### 💰 Millionaire Quiz
+
+Console-based multiple-choice quiz game built with **Python**.
+
+**Python**
+
+---
 
 ### 🌐 Personal Portfolio
 
-A simple personal portfolio website built while learning web development.
+Personal portfolio website built while learning web development.
 
-**Tech:** HTML • CSS
+**HTML · CSS**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=Sahil4507&show_icons=true&theme=tokyonight&hide_border=true" height="165">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sahil4507&layout=compact&theme=tokyonight&hide_border=true" height="165">
+</p>
 
 ---
 
 ## 🌱 Currently Learning
 
-* 🎮 Unity & C#
-* 🐍 Python
-* 🧠 Data Structures & Algorithms
-* 💻 Software Development
-* 🎨 Game Development
+🎮 **Unity & C#** · 🧠 **Algorithms & DSA** · 🐍 **Python** · 💻 **Game Development**
 
 ---
 
-## 📈 My Approach
+## 📫 Contact Me
 
-> **Learn → Build → Break → Fix → Improve**
+<p align="center">
+  <a href="https://www.linkedin.com/in/sahil-singh-bb5981343/">
+    <img src="https://img.shields.io/badge/LinkedIn-Sahil%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/Sahil4507">
+    <img src="https://img.shields.io/badge/GitHub-Sahil4507-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
 
-I believe the best way to learn development is to actually build things, make mistakes, fix them, and keep improving.
-
----
-
-## 🎯 My Goal
-
-**Build games and software that people actually enjoy using.**
-
----
-
-## 📫 Connect With Me
-
-💼 **LinkedIn:** [Sahil Singh](https://www.linkedin.com/feed/)
-
-🐙 **GitHub:** [@Sahil4507](https://github.com/Sahil4507)
+<p align="center">
+  💼 Open to learning, collaboration & future opportunities.
+</p>
 
 ---
 
-⭐ Thanks for visiting my profile!
-
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
